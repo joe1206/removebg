@@ -1,6 +1,6 @@
 # removebg
-[![Stars](https://img.shields.io/github/stars/joe1206/removebg.svg)](https://github.com/joe1206/The-Economist/stargazers)
-[![Forks](https://img.shields.io/github/forks/joe1206/removebg.svg)](https://github.com/joe1206/The-Economist/network/members)
+[![Stars](https://img.shields.io/github/stars/joe1206/removebg.svg)](https://github.com/joe1206/removebg/stargazers)
+[![Forks](https://img.shields.io/github/forks/joe1206/removebg.svg)](https://github.com/joe1206/removebg/network/members)
 ![GitHub repo size](https://img.shields.io/github/repo-size/joe1206/removebg.svg)
 [![Issues](https://img.shields.io/github/issues/joe1206/removebg.svg)]()
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/joe1206/removebg.svg)
